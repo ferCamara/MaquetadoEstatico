@@ -1,0 +1,89 @@
+body{
+    background-image: url(../IMG/blanco\ 1.jpg);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+.navbar.navbar-expand-lg.bg-success{
+    background-color: rgb(166, 174, 177) !important;
+}
+i.fa-brands.fa-facebook-f.fa-lg:hover{
+    color:blue;
+}
+i.fa-brands.fa-instagram.fa-lg:hover{
+    color:magenta;
+}
+i.fa-brands.fa-linkedin.fa-lg:hover{
+    color:blue;
+}
+i.fa-solid.fa-user.fa-lg:hover{
+    color:rgb(115, 243, 11);
+}
+
+.experiencia{
+    font-family:'Times New Roman', Times, serif;
+    font-family:sans-serif;
+    background-color: rgb(206, 206, 206, 0.7);
+}
+.cursos1{
+    font-family:'Times New Roman', Times, serif;
+    font-family:sans-serif;
+    background-color: rgb(226, 226, 226, 0.7);
+}
+.cursos2{
+    font-family:'Times New Roman', Times, serif;
+    font-family:sans-serif;
+    background-color: rgb(226, 226, 226, 0.7);
+}
+.facu{
+    font-family:'Times New Roman', Times, serif;
+    font-family:sans-serif;
+    background-color: rgb(226, 226, 226, 0.7);
+}
+.escuela{
+    font-family:'Times New Roman', Times, serif;
+    font-family:sans-serif;
+    background-color: rgb(226, 226, 226, 0.7);
+}
+.compu1{
+    font-family:'Times New Roman', Times, serif;
+    font-family:sans-serif;
+    background-color: rgb(206, 206, 206, 0.7);
+}
+.compu2{
+    font-family:'Times New Roman', Times, serif;
+    font-family:sans-serif;
+    background-color: rgb(206, 206, 206, 0.7);
+}
+.compu3{
+    font-family:'Times New Roman', Times, serif;
+    font-family:sans-serif;
+    background-color: rgb(206, 206, 206, 0.7);
+}
+.ingles{
+    font-family:'Times New Roman', Times, serif;
+    font-family:sans-serif;
+    background-color: rgb(206, 206, 206, 0.7);
+}
+.proyectos{
+    background-color: rgb(226, 226, 226, 0.7); 
+}
+/*=====para mover lo que tengo escrito con el nombre de esa clase===*/
+.sobremi{
+    margin-bottom: 30px;
+    margin-top: 120px;
+    font-family:'Times New Roman', Times, serif;
+    font-family:sans-serif;
+    background-color: white;
+}
+.encabezado{
+    font-family:'Times New Roman', Times, serif;
+    font-family:sans-serif;
+}
+.presentacion{
+    margin-top: 130px;
+}
+.contacto{
+    font-family:'Times New Roman', Times, serif;
+    font-family:sans-serif;
+    background-color: rgb(206, 206, 206, 0.7);
+}
